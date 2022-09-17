@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lucidmotors/static/css/main.e6c13ad2.css",
+    "main.js": "/lucidmotors/static/js/main.6117e54a.js",
+    "static/js/787.d8b9cd9f.chunk.js": "/lucidmotors/static/js/787.d8b9cd9f.chunk.js",
+    "index.html": "/lucidmotors/index.html",
+    "main.e6c13ad2.css.map": "/lucidmotors/static/css/main.e6c13ad2.css.map",
+    "main.6117e54a.js.map": "/lucidmotors/static/js/main.6117e54a.js.map",
+    "787.d8b9cd9f.chunk.js.map": "/lucidmotors/static/js/787.d8b9cd9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6117e54a.js"
+  ]
+}
